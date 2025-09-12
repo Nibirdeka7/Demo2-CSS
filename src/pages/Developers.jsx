@@ -989,6 +989,7 @@ const data = {
   .rotate-y-180 {
     transform: rotateY(180deg);
   }
+
   .backface-hidden {
     backface-visibility: hidden;
   }
@@ -996,5 +997,4 @@ const data = {
     </div>
   );
 }
-
 export default Developers;
